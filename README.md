@@ -9,7 +9,7 @@
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=mrblond1n&style=flat-square&color=blue" alt=""/>
-<div>
+</div>
   
 <div>
   I am a Software Engineer and digital nomad.
