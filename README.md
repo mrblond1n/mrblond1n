@@ -17,9 +17,29 @@
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="gif" />
 </div>
   
-<div>
+### About me
+
 *I'm frontend developer with 3 years of experience. I have hands-on experience efficiently coding web app. I mostly work with frontend. I've taken part in   the developing process of small startups as well as large high-load projects. I’m looking for an opportunity to work in an international company or startup and ready for relocation or remote work.*
-</div>
+
+---
+
+### Experience
+
+##### Middle Frontend Developer, Sberbank
+###### Internal startup of Sberbank, business direction
+
+- Created web app (prototype YouTube) for premium segment of bank with using React/Effector
+- Participation in the development of architecture
+- Worked with designer on improving UX
+- Worked with backend-developers for improving user data protections
+- Created an admin panel for content management on native JS
+- Helped related teams with their projects
+
+
+
+
+
+
 
 
 <!--
