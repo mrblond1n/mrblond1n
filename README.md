@@ -10,6 +10,10 @@
   
   <img src="https://komarev.com/ghpvc/?username=mrblond1n&style=flat-square&color=blue" alt=""/>
 </div>
+
+<div align="center">
+  <img src="Photo by Taylor Marx from Pexels: https://www.pexels.com/photo/concrete-building-by-stream-in-mountain-valley-12089012/" alt="image" />
+</div>
   
 <div>
   I am a Software Engineer and digital nomad.
