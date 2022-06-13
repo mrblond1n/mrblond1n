@@ -12,12 +12,11 @@
 <div>
   
 <div>
-I am a Software Engineer and digital nomad.
-  
-- Test
-- Test
-- Test
+  I am a Software Engineer and digital nomad.
 
+  - Test
+  - Test
+  - Test
 </div>
 
 
