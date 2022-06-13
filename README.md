@@ -29,9 +29,10 @@
 #### Software Engineer, Alar Studios
 ###### Outsource company with own projects. May 2022 - Present
 
-Support for an existing project, adding new functionality
-Usage WCAG for screen-readers in app
-Development UI for scale (200%) pages
+- Support for an existing project, adding new functionality
+- Usage WCAG for screen-readers in app
+- Development UI for scale (200%) pages
+- Worked with designer on improving UX
 
 *JavaScript, CoffeeScript, BackBone, LESS*
 
