@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.pexels.com/photo/concrete-building-by-stream-in-mountain-valley-12089012/" alt="image" />
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="gif" />
 </div>
   
 <div>
