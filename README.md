@@ -19,14 +19,14 @@
   
 ### About me
 
-*I'm frontend developer with 3 years of experience. I have hands-on experience efficiently coding web app. I mostly work with frontend. I've taken part in   the developing process of small startups as well as large high-load projects. I’m looking for an opportunity to work in an international company or startup and ready for relocation or remote work.*
+*I'm frontend developer with 3 years of experience. I have hands-on experience efficiently coding web app. I mostly work with frontend. I've taken part in   the developing process of small startups as well as large high-load projects.*
 
 ---
 
 ### Experience
 
-##### Middle Frontend Developer, Sberbank
-###### Internal startup of Sberbank, business direction
+##### Middle Frontend Developer, Sberbank 
+###### Internal startup of Sberbank, business direction. September 2020 - march 2022
 
 - Created web app (prototype YouTube) for premium segment of bank with using React/Effector
 - Participation in the development of architecture
@@ -35,6 +35,26 @@
 - Created an admin panel for content management on native JS
 - Helped related teams with their projects
 
+TypeScript, React, Effector, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence
+
+##### Middle Frontend Developer, Premium IT Solution
+###### Working as a contractor in Sberbank. May 2020 - September 2020
+
+- Created new web app for internal use by employees
+- Supported old project, implemented commercial features with using React/Redux Libraries
+- Worked with products manager and designers on improving UX
+
+JavaScript, React, Redux, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence
+
+##### Junior Frontend Developer, LIC-EXPERT
+###### Tax risk assessment startup based in Moscow. September 2019 - May 2020
+
+- Created SPA for detailed product presentation with using Vue Library
+- Rewriting old inner project (PHP) to Vue/Vuex
+- The web app became ~10x faster in terms of loading speed and performance
+- Assistance in the selection of new specialists and their training
+
+JavaScript, PHP, Laravel, Vue, Vuex, Webpack, Jenkins
 
 
 
