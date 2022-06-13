@@ -1,8 +1,4 @@
 <div id="header" align="center">
-  <h1>Software engineer</h1>
-  
-
-  
   <div id="badges">
     <a href="https://www.linkedin.com/in/ipestilenz/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,6 +10,15 @@
   
   <img src="https://komarev.com/ghpvc/?username=mrblond1n&style=flat-square&color=blue" alt=""/>
 <div>
+  
+<div>
+I am a Software Engineer and digital nomad.
+  
+- Test
+- Test
+- Test
+
+</div>
 
 
 <!--
