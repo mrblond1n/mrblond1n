@@ -18,11 +18,7 @@
 </div>
   
 <div>
-  I am a Software Engineer and digital nomad.
-
-  - Test
-  - Test
-  - Test
+*I'm frontend developer with 3 years of experience. I have hands-on experience efficiently coding web app. I mostly work with frontend. I've taken part in   the developing process of small startups as well as large high-load projects. I’m looking for an opportunity to work in an international company or startup and ready for relocation or remote work.*
 </div>
 
 
