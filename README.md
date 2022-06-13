@@ -1,11 +1,16 @@
 ### Hi there 👋
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ipestilenz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mrblond1n&style=flat-square&color=blue" alt=""/>
+  
+  <a href="https://t.me/rollyscrolly">
+    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=mrblond1n&style=flat-square&color=blue" alt=""/>
 
 <!--
 **mrblond1n/mrblond1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
