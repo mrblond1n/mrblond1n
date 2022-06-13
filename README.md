@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="Photo by Taylor Marx from Pexels: https://www.pexels.com/photo/concrete-building-by-stream-in-mountain-valley-12089012/" alt="image" />
+  <img src="https://www.pexels.com/photo/concrete-building-by-stream-in-mountain-valley-12089012/" alt="image" />
 </div>
   
 <div>
