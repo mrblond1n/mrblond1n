@@ -25,6 +25,16 @@
 
 ### :briefcase: Experience
 
+
+##### Software Engineer, Alar Studios
+###### Outsource company with own projects. May 2022 - Present
+
+Support for an existing project, adding new functionality
+Usage WCAG for screen-readers in app
+Development UI for scale (200%) pages
+
+*JavaScript, CoffeeScript, BackBone, LESS*
+
 ##### Middle Frontend Developer, Sberbank 
 ###### Internal startup of Sberbank, business direction. September 2020 - march 2022
 
