@@ -17,13 +17,13 @@
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="gif" />
 </div>
   
-### About me
+### :man_technologist: About me
 
 *I'm frontend developer with 3 years of experience. I have hands-on experience efficiently coding web app. I mostly work with frontend. I've taken part in   the developing process of small startups as well as large high-load projects.*
 
 ---
 
-### Experience
+### :briefcase: Experience
 
 ##### Middle Frontend Developer, Sberbank 
 ###### Internal startup of Sberbank, business direction. September 2020 - march 2022
