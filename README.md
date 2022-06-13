@@ -35,7 +35,7 @@
 - Created an admin panel for content management on native JS
 - Helped related teams with their projects
 
-TypeScript, React, Effector, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence
+*TypeScript, React, Effector, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence*
 
 ##### Middle Frontend Developer, Premium IT Solution
 ###### Working as a contractor in Sberbank. May 2020 - September 2020
@@ -44,7 +44,7 @@ TypeScript, React, Effector, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence
 - Supported old project, implemented commercial features with using React/Redux Libraries
 - Worked with products manager and designers on improving UX
 
-JavaScript, React, Redux, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence
+*JavaScript, React, Redux, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence*
 
 ##### Junior Frontend Developer, LIC-EXPERT
 ###### Tax risk assessment startup based in Moscow. September 2019 - May 2020
@@ -54,7 +54,7 @@ JavaScript, React, Redux, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence
 - The web app became ~10x faster in terms of loading speed and performance
 - Assistance in the selection of new specialists and their training
 
-JavaScript, PHP, Laravel, Vue, Vuex, Webpack, Jenkins
+*JavaScript, PHP, Laravel, Vue, Vuex, Webpack, Jenkins*
 
 ---
 
